@@ -1,4 +1,4 @@
-#Hello, React-Native!
-author: DongNTd 
-University: UTC 
-Company: BKAV
+# Hello, React-Native!
+.author: DongNTd 
+.University: UTC 
+.Company: BKAV
